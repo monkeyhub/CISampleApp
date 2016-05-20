@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ojdeploy-log>
+  <deploy-task>
+    <target>
+      <profile>CISampleApp_application1</profile>
+      <workspace>/C:/JDeveloper/mywork/CISampleApp/CISampleApp.jws</workspace>
+      <project>ViewController.jpr</project>
+      <output-file>/C:/JDeveloper/mywork/CISampleApp/deploy/CISampleApp_application1.ear</output-file>
+    </target>
+    <status exitcode="0">SUCCESS</status>
+  </deploy-task>
+  <summary>
+    <start-time>2016-05-20 17:09:13 IST</start-time>
+    <end-time>2016-05-20 17:09:27 IST</end-time>
+    <total-tasks>1</total-tasks>
+    <failures>0</failures>
+    <status exitcode="0">SUCCESS</status>
+  </summary>
+</ojdeploy-log>
